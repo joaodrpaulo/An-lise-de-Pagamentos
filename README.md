@@ -34,7 +34,9 @@ Indicadores de desempenho comercial.
 Transformar dados em informações visuais e estratégicas, facilitando o acompanhamento dos resultados da empresa, a identificação de padrões e a tomada de decisões baseada em dados.
 
 🛠️ Ferramentas e Tecnologias
+
 Power Bi – Desenvolvimento dos dashboards e visualização dos indicadores.
+
 SQL Server 2022 – Preparação e organização dos dados, caso utilizada.
 📈 Resultados
 
